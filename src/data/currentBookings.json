@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "roomId": "A101",
+        "startTime": "2019-09-28 13:00:00",
+        "endTime": "2019-09-28 14:00:00",
+        "title": "Lunch with Petr"
+    },
+    {
+        "id": 2,
+        "roomId": "A101",
+        "startTime": "2019-09-28 14:00:00",
+        "endTime": "2019-09-28 15:00:00",
+        "title": "Sales Weekly Meeting"
+    },
+    {
+        "id": 3,
+        "roomId": "A101",
+        "startTime": "2019-09-28 16:00:00",
+        "endTime": "2019-09-28 18:00:00",
+        "title": "Anastasia Website Warroom"
+    },
+    {
+        "id": 4,
+        "roomId": "A101",
+        "startTime": "2019-09-29 13:00:00",
+        "endTime": "2019-09-29 14:00:00",
+        "title": "One-on-One Session"
+    },
+    {
+        "id": 5,
+        "roomId": "A101",
+        "startTime": "2019-09-29 16:00:00",
+        "endTime": "2019-09-29 18:00:00",
+        "title": "UGC Sprint Planning"
+    },
+    {
+        "id": 6,
+        "roomId": "A102",
+        "startTime": "2019-09-30 09:00:00",
+        "endTime": "2019-10-04 18:00:00",
+        "title": "5-Day Design Sprint Workshop"
+    },
+    {
+        "id": 7,
+        "roomId": "Auditorium",
+        "startTime": "2019-09-19 09:00:00",
+        "endTime": "2019-09-23 19:00:00",
+        "title": "Thai Tech Innovation 2019"
+    },
+    {
+        "id": 8,
+        "roomId": "A101",
+        "startTime": "2019-09-28 10:00:00",
+        "endTime": "2019-09-28 13:00:00",
+        "title": "Raimonland project"
+    },
+    {
+        "id": 9,
+        "roomId": "A102",
+        "startTime": "2019-09-30 18:00:00",
+        "endTime": "2019-09-30 20:00:00",
+        "title": "Management Meetinng"
+    },
+    {
+        "id": 10,
+        "roomId": "A101",
+        "startTime": "2019-10-04 14:00:00",
+        "endTime": "2019-10-06 11:00:00",
+        "title": "3-day workshop Corgi costume"
+    },
+    {
+        "id": 501,
+        "roomId": "A101",
+        "startTime": "2023-11-23 15:00:00",
+        "endTime": "2023-11-23 16:00:00",
+        "title": "Weekly Project Schedule"
+    },
+    {
+        "id": 502,
+        "roomId": "A101",
+        "startTime": "2023-11-23 16:00:00",
+        "endTime": "2023-11-23 17:00:00",
+        "title": "Specifications"
+    },
+    {
+        "id": 503,
+        "roomId": "A101",
+        "startTime": "2023-11-23 17:00:00",
+        "endTime": "2023-11-23 18:00:00",
+        "title": "Contract Documentation"
+    },
+    {
+        "id": 504,
+        "roomId": "A101",
+        "startTime": "2023-11-23 18:00:00",
+        "endTime": "2023-11-23 19:00:00",
+        "title": "Overall Project Schedule"
+    },
+    {
+        "id": 505,
+        "roomId": "A101",
+        "startTime": "2023-11-23 19:00:00",
+        "endTime": "2023-11-23 20:00:00",
+        "title": "Daily/Weekly Inspecion Reports"
+    },
+    {
+        "id": 506,
+        "roomId": "A101",
+        "startTime": "2023-11-23 20:00:00",
+        "endTime": "2023-11-23 21:00:00",
+        "title": "Weekly Payroll Reports"
+    },
+    {
+        "id": 507,
+        "roomId": "A101",
+        "startTime": "2023-11-19 00:00:00",
+        "endTime": "2023-11-19 02:00:00",
+        "title": "Overall Project Schedule"
+    },
+    {
+        "id": 508,
+        "roomId": "A101",
+        "startTime": "2023-11-19 04:00:00",
+        "endTime": "2023-11-19 05:00:00",
+        "title": "Daily/Weekly Inspecion Reports"
+    },
+    {
+        "id": 509,
+        "roomId": "A101",
+        "startTime": "2023-12-08 00:00:00",
+        "endTime": "2023-12-08 01:00:00",
+        "title": "Weekly Payroll Reports"
+    },
+    {
+        "id": 510,
+        "roomId": "A101",
+        "startTime": "2023-12-08 01:00:00",
+        "endTime": "2023-12-08 02:00:00",
+        "title": "Weekly Project Schedule"
+    },
+    {
+        "id": 511,
+        "roomId": "A101",
+        "startTime": "2023-12-08 02:00:00",
+        "endTime": "2023-12-08 03:00:00",
+        "title": "DABC Sprint Planning"
+    },
+    {
+        "id": 512,
+        "roomId": "A101",
+        "startTime": "2023-12-08 03:00:00",
+        "endTime": "2023-12-08 04:00:00",
+        "title": "BABC Sprint Planning"
+    },
+    {
+        "id": 513,
+        "roomId": "A101",
+        "startTime": "2023-12-20 02:00:00",
+        "endTime": "2023-12-20 03:00:00",
+        "title": "CABC Sprint Planning"
+    }
+]
