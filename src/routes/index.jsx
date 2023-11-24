@@ -8,7 +8,7 @@ import QuizNo2BPage from "../pages/quizNo2B"
 
 import ErrorPage from "../pages/error-page"
 
-const router = createHashRouter([//createBrowserRouter or createHashRouter
+const router = createBrowserRouter([//createBrowserRouter or createHashRouter
     {
         path: "/",
         element: <HomePage />,
@@ -34,6 +34,8 @@ const router = createHashRouter([//createBrowserRouter or createHashRouter
         element: <QuizNo2BPage />,
         errorElement: <ErrorPage />,
     },
-])
+], {
+    basename: "/booking-system",
+})
 
 export default router;

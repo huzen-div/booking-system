@@ -1,6 +1,5 @@
 {
   "name": "bookingsshop",
-  "homepage": "booking-system",
   "private": true,
   "version": "0.0.0",
   "type": "module",
