@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import { VENUE_IMAGE1, VENUE_IMAGE2, VENUE_IMAGE3 } from '../../utils/constants';
 export default function HomePage() {
+    console.log("VENUE_IMAGE1",VENUE_IMAGE1)
     return (
         <>
             <div className="container-fluid" style={{ width: 950, marginTop: "3rem" }}>
