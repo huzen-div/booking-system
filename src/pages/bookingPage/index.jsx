@@ -3,13 +3,19 @@ import moment from 'moment';
 import UpcomingCard from './components/UpcomingCard';
 import currentBookings from '../../data/currentBookings.json';
 
+import { useLocation } from "react-router-dom";
+
 export default function BookingPage() {
     const [checkedTab, setCheckedTab] = useState(true);
     const [currentWeek, setCurrentWeek] = useState([]);
     const [weekNo, setWeekNo] = useState([]);
     const [tabType, setTabType] = useState("week");
 
-    const queryRoomId = (new URLSearchParams(window.location.search)).get("roomId");
+    // const queryRoomId = (new URLSearchParams(window.location.search)).get("roomId");
+
+    const { search } = useLocation();
+    const queryRoomId = new URLSearchParams(search).get("roomId");
+
 
     const roomIdNoB = queryRoomId;
     const dateInput = moment().format("YYYY-MM-DD");//"2023-11-23" ระบบจะคำนวณ weekNo โดยวันที่เลือก
